@@ -11,3 +11,4 @@ coverage/
 
 # 误生成的 shared 编译产物
 shared/*.js
+
